@@ -1,2 +1,10 @@
+# Requirements for Growth Momentum DCA
+# Core dependencies
 cpz-ai>=1.5.2
+numpy>=2.4.1
+pandas>=3.0.0
+matplotlib>=3.10.8
+seaborn>=0.13.2
 yfinance>=1.1.0
+requests>=2.32.5
+python-dotenv>=1.2.1
